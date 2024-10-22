@@ -1,12 +1,18 @@
-Olá, me chamo Alissa e estou cursando o segundo semestre em Desenvolvimento de Software Multiplataforma na Fatec-JAHU
 <div align="center">
+  
+<p>Olá, me chamo Alissa e estou cursando o segundo semestre em Desenvolvimento de Software Multiplataforma na Fatec-JAHU</p>
+
+### Linguagens
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-gray?style=for-the-badge&logo=javascript)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-EEE8AA?style=for-the-badge&logo=MySQL&logoColor=black)&nbsp;
 
 <a href="https://github.com/AlissaGabriel">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AlissaGabriel&show_icons=true&bg_color=D3D3D3&&text_color=000000&title_color=#9FC4E7&icon_color=FF00FF&count_private=true&include_all_commits=false"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AlissaGabriel&show_icons=true&bg_color=000000&&text_color=FFFFFF&title_color=D8BFD8&icon_color=D8BFD8&count_private=true&include_all_commits=false"/>
 
-<!-- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissaGabriel&layout=compact&bg_color=D3D3D3&text_color=000000&title_color=#9FC4E7&langs_count=10"/> !-->
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissaGabriel&layout=compact&hide_border&bg_color=000000&&text_color=FFFFFF&title_color=D8BFD8"/>
 
 </a>
-
 </div>
