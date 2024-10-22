@@ -1,4 +1,4 @@
-Olá, me chamo Alissa e moro em Dois Córregos. Estou cursando o segundo semestre em Desenvolvimento de Software Multiplataforma na Fatec-JAHU
+Olá, me chamo Alissa e estou cursando o segundo semestre em Desenvolvimento de Software Multiplataforma na Fatec-JAHU
 <div align="center">
 
 <a href="https://github.com/AlissaGabriel">
