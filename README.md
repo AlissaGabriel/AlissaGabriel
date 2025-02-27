@@ -1,5 +1,5 @@
 <div align="center">
-<p>Olá, me chamo Alissa e estou cursando o segundo semestre em Desenvolvimento de Software Multiplataforma na Fatec-JAHU</p>
+<p>Olá, me chamo Alissa e estou cursando o terceiro semestre em Desenvolvimento de Software Multiplataforma na Fatec-JAHU</p>
 </div>
 
 <div align="center">
