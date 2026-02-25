@@ -1,7 +1,7 @@
 <div align="center">
 
 ##  Olá, me chamo Alissa!  
- Cursando o **4º semestre** de **Desenvolvimento de Software Multiplataforma** na **Fatec-JAHU**
+ Cursando o **5º semestre** de **Desenvolvimento de Software Multiplataforma** na **Fatec-JAHU**
 
 ---
 
@@ -10,14 +10,6 @@
 
 ### Plataformas e Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,github,git&theme=dark)](https://skillicons.dev)
-
----
-
-### Estatísticas 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AlissaGabriel&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissaGabriel&layout=compact&theme=midnight-purple&hide_border=true"/>
-</div>
 
 ---
 
