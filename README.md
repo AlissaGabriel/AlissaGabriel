@@ -22,14 +22,6 @@ Cursando o **5º semestre** de **Desenvolvimento de Software Multiplataforma** n
 
 ---
 
-### 📊 Estatísticas & Linguagens mais usadas
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlissaGabriel&show_icons=true&theme=prussian&hide_border=true&text_color=FFFFFF" width="400" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissaGabriel&layout=compact&theme=prussian&hide_border=true&text_color=FFFFFF" width="400" height="150"/>
-</div>
-
----
-
 ### 🌐 Onde me encontrar
 <a href="https://www.linkedin.com/in/AlissaGabriel1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:alissagabriel141@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
